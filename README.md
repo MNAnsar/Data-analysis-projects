@@ -1,5 +1,6 @@
 # Data-analysis-projects
 "Explore my data analysis projects: Excel, Python (NumPy &amp; Pandas), and SQL. Proven results, hire me with confidence. Your data has a story; let's tell it professionally. Happy Exploring
+
 Hi this is vrinda store data analysis completely performed in MS Excel.
 
 In this comprehensive data analysis project, I have delved into various aspects of sales and orders to extract meaningful insights. I compared sales and orders in a single chart, allowing for a quick and insightful view of the data. Through meticulous data cleaning and analysis, I identified the month with the highest sales and orders, enabling us to pinpoint peak performance periods. 
