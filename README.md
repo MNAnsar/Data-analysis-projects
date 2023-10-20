@@ -1,4 +1,4 @@
-# Data-analysis-projects
+# Vrinda Store Data analysis
 "Explore my data analysis projects: Excel, Python (NumPy &amp; Pandas), and SQL. Proven results, hire me with confidence. Your data has a story; let's tell it professionally. Happy Exploring
 
 Hi this is vrinda store data analysis completely performed in MS Excel.
